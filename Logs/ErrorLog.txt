@@ -1,0 +1,22 @@
+
+Error in thread Room cycle task for room 9050: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:riga 83
+   in Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:riga 54
+   in Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:riga 1367
+   in Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\Room.cs:riga 741
+
+
+Error in thread Room cycle task for room 315: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:riga 1467
+   in Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\Room.cs:riga 741
+
+
+Error in thread Room cycle task for room 310: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.PathFinding.PathFinder.FindPathReversed(RoomUser RoomUserable, Boolean WhatIsDiag, Gamemap GameLocalMap, Vector2D StartMap, Vector2D EndMap) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:riga 83
+   in Plus.HabboHotel.PathFinding.PathFinder.FindPath(RoomUser user, Boolean diag, Gamemap map, Vector2D start, Vector2D end) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\HabboHotel\Pathfinding\PathFinder.cs:riga 54
+   in Plus.HabboHotel.Rooms.RoomUserManager.OnCycle(Int32& idleCount) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\HabboHotel\Rooms\RoomUserManager.cs:riga 1367
+   in Plus.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\HabboHotel\Rooms\Room.cs:riga 741
+

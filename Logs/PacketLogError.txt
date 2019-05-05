@@ -1,0 +1,1180 @@
+
+Error in packet [3033] [0][6]:marry[0][0][0][0][0][0][0]3: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 2392
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][6]:marry[0][0][0][0][0][0][0] : 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 2392
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][9]:setvault[0][0][0][0][0][0][0][0]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 9096
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][9]:setvault[0][0][0][0][0][0][0][1]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 9096
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:setvault Colin-Brooksa[0][0][0][0][0][0][0][2]: 
+System.FormatException: Formato della stringa di input non corretto.
+   in System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   in System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   in System.Convert.ToInt32(String value)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 9096
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:setvault Colin-Brooksa[0][0][0][0][0][0][0][0]: 
+System.FormatException: Formato della stringa di input non corretto.
+   in System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   in System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   in System.Convert.ToInt32(String value)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 9096
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][9]:setvault[0][0][0][0][0][0][0][1]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 9096
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:setvault Colin-Brooksa 100[0][0][0][0][0][0][0][2]: 
+System.FormatException: Formato della stringa di input non corretto.
+   in System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   in System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   in System.Convert.ToInt32(String value)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 9096
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:setvault Colin-Brooksa[0][0][0][0][0][0][0][7]: 
+System.FormatException: Formato della stringa di input non corretto.
+   in System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   in System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   in System.Convert.ToInt32(String value)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 9096
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:setvault Colin-Brooksa 1000[0][0][0][0][0][0][0][10]: 
+System.FormatException: Formato della stringa di input non corretto.
+   in System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   in System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   in System.Convert.ToInt32(String value)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 9096
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [313] [1]l?[0][0][0][0]: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.handleFarmingSpot(GameClient Session, RoomItem Item) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 140
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.OnTrigger(GameClient Session, RoomItem Item, Int32 Request, Boolean HasRights) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 51
+   in Plus.Messages.Handlers.GameClientMessageHandler.TriggerItem() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 619
+   in Plus.Messages.Parsers.PacketLibrary.TriggerItem(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1376
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [313] [1]l?[0][0][0][0]: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.handleFarmingSpot(GameClient Session, RoomItem Item) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 140
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.OnTrigger(GameClient Session, RoomItem Item, Int32 Request, Boolean HasRights) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 51
+   in Plus.Messages.Handlers.GameClientMessageHandler.TriggerItem() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 619
+   in Plus.Messages.Parsers.PacketLibrary.TriggerItem(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1376
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][12]:farmer weed[0][0][0][0][0][0][0][0]: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8063
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [313] [1]l?[0][0][0][0]: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.handleFarmingSpot(GameClient Session, RoomItem Item) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 148
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.OnTrigger(GameClient Session, RoomItem Item, Int32 Request, Boolean HasRights) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 51
+   in Plus.Messages.Handlers.GameClientMessageHandler.TriggerItem() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 619
+   in Plus.Messages.Parsers.PacketLibrary.TriggerItem(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1376
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][7]:farmer[0][0][0][0][0][0][0][3]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8058
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [313] [1]l?[0][0][0][0]: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.handleFarmingSpot(GameClient Session, RoomItem Item) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 148
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.OnTrigger(GameClient Session, RoomItem Item, Int32 Request, Boolean HasRights) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 51
+   in Plus.Messages.Handlers.GameClientMessageHandler.TriggerItem() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 619
+   in Plus.Messages.Parsers.PacketLibrary.TriggerItem(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1376
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [313] [1]??[0][0][0][0]: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.handleFarmingSpot(GameClient Session, RoomItem Item) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 140
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.OnTrigger(GameClient Session, RoomItem Item, Int32 Request, Boolean HasRights) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 51
+   in Plus.Messages.Handlers.GameClientMessageHandler.TriggerItem() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 619
+   in Plus.Messages.Parsers.PacketLibrary.TriggerItem(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1376
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [313] [1]??[0][0][0][0]: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.handleFarmingSpot(GameClient Session, RoomItem Item) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 140
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.OnTrigger(GameClient Session, RoomItem Item, Int32 Request, Boolean HasRights) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 51
+   in Plus.Messages.Handlers.GameClientMessageHandler.TriggerItem() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 619
+   in Plus.Messages.Parsers.PacketLibrary.TriggerItem(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1376
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [313] [1]l?[0][0][0][0]: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.handleFarmingSpot(GameClient Session, RoomItem Item) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 140
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.OnTrigger(GameClient Session, RoomItem Item, Int32 Request, Boolean HasRights) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 51
+   in Plus.Messages.Handlers.GameClientMessageHandler.TriggerItem() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 619
+   in Plus.Messages.Parsers.PacketLibrary.TriggerItem(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1376
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]$:givestats colin-brooks 1000 credits[0][0][0][0][0][0][0]&: 
+System.FormatException: Formato della stringa di input non corretto.
+   in System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   in System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   in System.Convert.ToInt32(String value)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 10212
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][5]:kill[0][0][0][0][0][0][0][4]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8379
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][5]:kill[0][0][0][0][0][0][0][8]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8379
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:taxi 439803498034[0][0][0][0][0][0][0][6]: 
+System.OverflowException: Valore troppo grande o troppo piccolo per un UInt32.
+   in System.Number.ParseUInt32(String value, NumberStyles options, NumberFormatInfo numfmt)
+   in System.Convert.ToUInt32(String value)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 1483
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][10]:discharge[0][0][0][0][0][0][0][1]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 6785
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][8]:refresh[0][0][0][0][0][0][0][1]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8714
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:setatm 9387789879[0][0][0][0][0][0][0][2]: 
+System.OverflowException: Valore troppo grande o troppo piccolo per un Int32.
+   in System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   in System.Convert.ToInt32(String value)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 6632
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][8]:DIVORCE[0][0][0][0][0][0][0]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 2629
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][5]:cure[0][0][0][0][0][0][0][1]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 4327
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [313] [1]v?[0][0][0][0]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.handleRock(GameClient Session, RoomItem Item) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 104
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.OnTrigger(GameClient Session, RoomItem Item, Int32 Request, Boolean HasRights) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 46
+   in Plus.Messages.Handlers.GameClientMessageHandler.TriggerItem() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 619
+   in Plus.Messages.Parsers.PacketLibrary.TriggerItem(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1376
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [313] [1]v?[0][0][0][0]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.handleRock(GameClient Session, RoomItem Item) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 104
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.OnTrigger(GameClient Session, RoomItem Item, Int32 Request, Boolean HasRights) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 46
+   in Plus.Messages.Handlers.GameClientMessageHandler.TriggerItem() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 619
+   in Plus.Messages.Parsers.PacketLibrary.TriggerItem(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1376
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [313] [1]v?[0][0][0][0]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.handleRock(GameClient Session, RoomItem Item) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 104
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.OnTrigger(GameClient Session, RoomItem Item, Int32 Request, Boolean HasRights) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 46
+   in Plus.Messages.Handlers.GameClientMessageHandler.TriggerItem() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 619
+   in Plus.Messages.Parsers.PacketLibrary.TriggerItem(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1376
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [313] [1]v?[0][0][0][0]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.handleRock(GameClient Session, RoomItem Item) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 104
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.OnTrigger(GameClient Session, RoomItem Item, Int32 Request, Boolean HasRights) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 46
+   in Plus.Messages.Handlers.GameClientMessageHandler.TriggerItem() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 619
+   in Plus.Messages.Parsers.PacketLibrary.TriggerItem(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1376
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [313] [1]v?[0][0][0][0]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.handleRock(GameClient Session, RoomItem Item) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 104
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.OnTrigger(GameClient Session, RoomItem Item, Int32 Request, Boolean HasRights) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 46
+   in Plus.Messages.Handlers.GameClientMessageHandler.TriggerItem() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 619
+   in Plus.Messages.Parsers.PacketLibrary.TriggerItem(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1376
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:lickfeet elian-arche[0][0][0][0][0][0][0]: 
+System.Collections.Generic.KeyNotFoundException: La chiave specificata non era presente nel dizionario.
+   in System.ThrowHelper.ThrowKeyNotFoundException()
+   in System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 13746
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:shoot colin-brooksa[0][0][0][0][0][0][0];: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Roleplay.Combat.CombatManager.CanAttack(GameClient User1, GameClient User2, Boolean Weapon) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Combat\CombatManager.cs:riga 419
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 12720
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:shoot colin-brooksa[0][0][0][0][0][0][0]>: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Roleplay.Combat.CombatManager.CanAttack(GameClient User1, GameClient User2, Boolean Weapon) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Combat\CombatManager.cs:riga 419
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 12720
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:shoot colin-brooksa[0][0][0][0][0][0][0]E: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Roleplay.Combat.CombatManager.CanAttack(GameClient User1, GameClient User2, Boolean Weapon) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Combat\CombatManager.cs:riga 419
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 12720
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:shoot colin-brooksa[0][0][0][0][0][0][0]L: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Roleplay.Combat.CombatManager.CanAttack(GameClient User1, GameClient User2, Boolean Weapon) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Combat\CombatManager.cs:riga 419
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 12720
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:shoot colin-brooksa[0][0][0][0][0][0][0][1]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Roleplay.Combat.CombatManager.CanAttack(GameClient User1, GameClient User2, Boolean Weapon) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Combat\CombatManager.cs:riga 419
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 12720
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:shoot colin-brooksa[0][0][0][0][0][0][0][3]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Roleplay.Combat.CombatManager.CanAttack(GameClient User1, GameClient User2, Boolean Weapon) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Combat\CombatManager.cs:riga 419
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 12720
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 1001
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [2385] [0][1]M[0]Mlg-3057-1194.ch-3050-64-1408.hr-3025-35.sh-3016-110.cc-3389-1207-73.hd-3103-1: 
+System.InvalidOperationException: La sequenza non contiene elementi
+   in System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   in Plus.HabboHotel.Roleplay.Components.ProcessClothing.LocateBooth() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Components\ProcessClothing.cs:riga 209
+   in Plus.HabboHotel.Roleplay.Components.ProcessClothing..ctor(GameClient Session, String NewClothing, String Gender) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Components\ProcessClothing.cs:riga 61
+   in Plus.Messages.Handlers.GameClientMessageHandler.ChangeLook() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Users.cs:riga 566
+   in Plus.Messages.Parsers.PacketLibrary.ChangeLook(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1790
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3930] : 
+System.NotImplementedException: Operazione o metodo non implementato.
+   in Plus.Connection.ServerManager.Session.SendNotif(String v) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Connection\ServerManager\Session.cs:riga 194
+   in Plus.HabboHotel.Navigators.Navigator.EnableNewNavigator(GameClient session) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Navigators\Navigator.cs:riga 340
+   in Plus.Messages.Handlers.GameClientMessageHandler.NewNavigator() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Navigator.cs:riga 76
+   in Plus.Messages.Parsers.PacketLibrary.NewNavigator(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 2555
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3930] : 
+System.NotImplementedException: Operazione o metodo non implementato.
+   in Plus.Connection.ServerManager.Session.SendNotif(String v) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Connection\ServerManager\Session.cs:riga 194
+   in Plus.HabboHotel.Navigators.Navigator.EnableNewNavigator(GameClient session) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Navigators\Navigator.cs:riga 340
+   in Plus.Messages.Handlers.GameClientMessageHandler.NewNavigator() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Navigator.cs:riga 76
+   in Plus.Messages.Parsers.PacketLibrary.NewNavigator(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 2555
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3930] : 
+System.NotImplementedException: Operazione o metodo non implementato.
+   in Plus.Connection.ServerManager.Session.SendNotif(String v) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Connection\ServerManager\Session.cs:riga 194
+   in Plus.HabboHotel.Navigators.Navigator.EnableNewNavigator(GameClient session) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Navigators\Navigator.cs:riga 341
+   in Plus.Messages.Handlers.GameClientMessageHandler.NewNavigator() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Navigator.cs:riga 76
+   in Plus.Messages.Parsers.PacketLibrary.NewNavigator(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 2555
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3930] : 
+System.NotImplementedException: Operazione o metodo non implementato.
+   in Plus.Connection.ServerManager.Session.SendNotif(String v) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Connection\ServerManager\Session.cs:riga 194
+   in Plus.HabboHotel.Navigators.Navigator.EnableNewNavigator(GameClient session) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Navigators\Navigator.cs:riga 350
+   in Plus.Messages.Handlers.GameClientMessageHandler.NewNavigator() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Navigator.cs:riga 76
+   in Plus.Messages.Parsers.PacketLibrary.NewNavigator(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 2555
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3930] : 
+System.NotImplementedException: Operazione o metodo non implementato.
+   in Plus.Connection.ServerManager.Session.SendNotif(String v) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Connection\ServerManager\Session.cs:riga 194
+   in Plus.HabboHotel.Navigators.Navigator.EnableNewNavigator(GameClient session) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Navigators\Navigator.cs:riga 368
+   in Plus.Messages.Handlers.GameClientMessageHandler.NewNavigator() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Navigator.cs:riga 76
+   in Plus.Messages.Parsers.PacketLibrary.NewNavigator(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 2555
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3930] : 
+System.NotImplementedException: Operazione o metodo non implementato.
+   in Plus.Connection.ServerManager.Session.SendNotif(String v) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Connection\ServerManager\Session.cs:riga 194
+   in Plus.HabboHotel.Navigators.Navigator.EnableNewNavigator(GameClient session) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Navigators\Navigator.cs:riga 368
+   in Plus.Messages.Handlers.GameClientMessageHandler.NewNavigator() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Navigator.cs:riga 76
+   in Plus.Messages.Parsers.PacketLibrary.NewNavigator(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 2555
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3930] : 
+System.NotImplementedException: Operazione o metodo non implementato.
+   in Plus.Connection.ServerManager.Session.SendNotif(String v) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Connection\ServerManager\Session.cs:riga 194
+   in Plus.HabboHotel.Navigators.Navigator.EnableNewNavigator(GameClient session) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Navigators\Navigator.cs:riga 341
+   in Plus.Messages.Handlers.GameClientMessageHandler.NewNavigator() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Navigator.cs:riga 76
+   in Plus.Messages.Parsers.PacketLibrary.NewNavigator(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 2555
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:shoot colin-brooks[0][0][0][0][0][0][0][5]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Roleplay.Combat.CombatManager.CanAttack(GameClient User1, GameClient User2, Boolean Weapon) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Combat\CombatManager.cs:riga 419
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 12720
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:shoot colin-brooks[0][0][0][0][0][0][0][6]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Roleplay.Combat.CombatManager.CanAttack(GameClient User1, GameClient User2, Boolean Weapon) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Combat\CombatManager.cs:riga 419
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 12720
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:shoot colin-brooks[0][0][0][0][0][0][0][3]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Roleplay.Combat.CombatManager.CanAttack(GameClient User1, GameClient User2, Boolean Weapon) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Combat\CombatManager.cs:riga 419
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 12720
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:shoot colin-brooks[0][0][0][0][0][0][0][4]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Roleplay.Combat.CombatManager.CanAttack(GameClient User1, GameClient User2, Boolean Weapon) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Combat\CombatManager.cs:riga 419
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 12720
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:shoot colin-brooks[0][0][0][0][0][0][0][5]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Roleplay.Combat.CombatManager.CanAttack(GameClient User1, GameClient User2, Boolean Weapon) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Combat\CombatManager.cs:riga 419
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 12720
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:shoot colin-brooks[0][0][0][0][0][0][0][1]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Roleplay.Combat.CombatManager.CanAttack(GameClient User1, GameClient User2, Boolean Weapon) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Combat\CombatManager.cs:riga 419
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 12720
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:shoot roger-matthews[0][0][0][0][0][0][0][2]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Roleplay.Combat.CombatManager.CanAttack(GameClient User1, GameClient User2, Boolean Weapon) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Combat\CombatManager.cs:riga 419
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 12720
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3609] [1]): 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.Messages.HabboEncoding.DecodeInt16(Byte[] v) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\HabboEncoding.cs:riga 29
+   in Plus.Messages.ClientMessage.GetNext() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\ClientMessage.cs:riga 139
+   in Plus.Messages.ClientMessage.GetString(Encoding encoding) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\ClientMessage.cs:riga 159
+   in Plus.Messages.ClientMessage.GetString() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\ClientMessage.cs:riga 149
+   in Plus.HabboHotel.Rooms.Wired.WiredSaver.SaveWired(GameClient session, RoomItem item, ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\Wired\WiredSaver.cs:riga 204
+   in Plus.Messages.Handlers.GameClientMessageHandler.SaveWired() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 1865
+   in Plus.Messages.Parsers.PacketLibrary.SaveWired(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1664
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:rpstats colin-y[0][0][0][0][0][0][0][2]: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 1108
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:rpstats a-IUTO[0][0][0][0][0][0][0][4]: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 1108
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][8]:refresh[0][0][0][0][0][0][0][6]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8715
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:rpstats Selina-myers[0][0][0][0][0][0][0][5]: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 973
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [818] [0][0]?Y[0]ARRIVI AD UN PUNTO: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Users.Messenger.HabboMessenger.SendInstantMessage(UInt32 toId, String message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Users\Messenger\HabboMessenger.cs:riga 487
+   in Plus.Messages.Handlers.GameClientMessageHandler.SendInstantMessenger() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Messenger.cs:riga 123
+   in Plus.Messages.Parsers.PacketLibrary.SendInstantMessenger(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 737
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [818] [0][0]?Y[0]QUANDO SBUCHI: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Users.Messenger.HabboMessenger.SendInstantMessage(UInt32 toId, String message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Users\Messenger\HabboMessenger.cs:riga 487
+   in Plus.Messages.Handlers.GameClientMessageHandler.SendInstantMessenger() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Messenger.cs:riga 123
+   in Plus.Messages.Parsers.PacketLibrary.SendInstantMessenger(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 737
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [818] [0][0]?F[0]nel cimitero...: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Users.Messenger.HabboMessenger.SendInstantMessage(UInt32 toId, String message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Users\Messenger\HabboMessenger.cs:riga 487
+   in Plus.Messages.Handlers.GameClientMessageHandler.SendInstantMessenger() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Messenger.cs:riga 123
+   in Plus.Messages.Parsers.PacketLibrary.SendInstantMessenger(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 737
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][9]:flaguser[0][0][0][0][0][0][0][11]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 15779
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][5]:flag[0][0][0][0][0][0][0]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 15779
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:adminjail luke-gilmore[0][0][0][0][0][0][0]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8643
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:adminjail Lucy-Gilmore[0][0][0][0][0][0][0][4]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8643
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:adminjail Lucy-Gilmore[0][0][0][0][0][0][0][5]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8643
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:adminjail Lucy-Gilmore[0][0][0][0][0][0][0]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8643
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:lickfeet lucy-gilmore[0][0][0][0][0][0][0]?: 
+System.Collections.Generic.KeyNotFoundException: La chiave specificata non era presente nel dizionario.
+   in System.ThrowHelper.ThrowKeyNotFoundException()
+   in System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 13581
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][8]:restore[0][0][0][0][0][0][0][1]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8595
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [2385] [0][1]M[0]Klg-3407-110-110.ch-3779-73-110.hd-209-10.hr-3785-1404.sh-295-110.ea-3169-92: 
+System.InvalidOperationException: La sequenza non contiene elementi
+   in System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   in Plus.HabboHotel.Roleplay.Components.ProcessClothing.LocateBooth() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Components\ProcessClothing.cs:riga 209
+   in Plus.HabboHotel.Roleplay.Components.ProcessClothing..ctor(GameClient Session, String NewClothing, String Gender) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Components\ProcessClothing.cs:riga 61
+   in Plus.Messages.Handlers.GameClientMessageHandler.ChangeLook() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Users.cs:riga 566
+   in Plus.Messages.Parsers.PacketLibrary.ChangeLook(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1790
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [2385] [0][1]M[0]Llg-3407-110-110.ch-3779-73-110.hd-3091-10.hr-3785-1404.sh-295-110.ea-3169-92: 
+System.InvalidOperationException: La sequenza non contiene elementi
+   in System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   in Plus.HabboHotel.Roleplay.Components.ProcessClothing.LocateBooth() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Components\ProcessClothing.cs:riga 209
+   in Plus.HabboHotel.Roleplay.Components.ProcessClothing..ctor(GameClient Session, String NewClothing, String Gender) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Components\ProcessClothing.cs:riga 61
+   in Plus.Messages.Handlers.GameClientMessageHandler.ChangeLook() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Users.cs:riga 566
+   in Plus.Messages.Parsers.PacketLibrary.ChangeLook(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1790
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:lickfeet connor-lahey[0][0][0][0][0][0][0]: 
+System.Collections.Generic.KeyNotFoundException: La chiave specificata non era presente nel dizionario.
+   in System.ThrowHelper.ThrowKeyNotFoundException()
+   in System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 13581
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:bomb Connor-lahey[0][0][0][0][0][0][0].: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Roleplay.Combat.BombCombat.CanExecuteAttack(GameClient Session, GameClient TargetSession) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Combat\BombCombat.cs:riga 63
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 12606
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:jail colin-brooks[0][0][0][0][0][0][0][0]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8643
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:jail Colin-Brooks [0][0][0][0][0][0][0][10]: 
+System.FormatException: Formato della stringa di input non corretto.
+   in System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   in System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   in System.Convert.ToInt32(String value)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8643
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [2850] [0][0]?b: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.Messages.Handlers.GameClientMessageHandler.KickUser() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 1000
+   in Plus.Messages.Parsers.PacketLibrary.KickUser(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1178
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:lickfeet Flavio-Enrico[0][0][0][0][0][0][0]2: 
+System.Collections.Generic.KeyNotFoundException: La chiave specificata non era presente nel dizionario.
+   in System.ThrowHelper.ThrowKeyNotFoundException()
+   in System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 13581
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:jail Flavio-Enrico[0][0][0][0][0][0][0]:: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8643
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:jail Flavio-Enrico[0][0][0][0][0][0][0]D: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8643
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][8]:divorce[0][0][0][0][0][0][0][4]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 2467
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][8]:dIVORCE[0][0][0][0][0][0][0][0]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 2467
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][8]:divorce[0][0][0][0][0][0][0][0]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 2467
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:marry connor-[0][0][0][0][0][0][0][9]: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 2424
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:adminrelease[0][0][0][0][0][0][0][6]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 8692
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:lickfeet charlotte-mills[0][0][0][0][0][0][0]0: 
+System.Collections.Generic.KeyNotFoundException: La chiave specificata non era presente nel dizionario.
+   in System.ThrowHelper.ThrowKeyNotFoundException()
+   in System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 13581
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [2385] [0][1]M[0]'hd-200-10.ch-225-66.sh-300-73.lg-275-82: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.Messages.Handlers.GameClientMessageHandler.ChangeLook() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Users.cs:riga 545
+   in Plus.Messages.Parsers.PacketLibrary.ChangeLook(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1790
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [2850] [0][0]?g: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.Messages.Handlers.GameClientMessageHandler.KickUser() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 1000
+   in Plus.Messages.Parsers.PacketLibrary.KickUser(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1178
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [313] [1][7][0][0][0][0]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.handleRock(GameClient Session, RoomItem Item) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 104
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.OnTrigger(GameClient Session, RoomItem Item, Int32 Request, Boolean HasRights) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 46
+   in Plus.Messages.Handlers.GameClientMessageHandler.TriggerItem() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 619
+   in Plus.Messages.Parsers.PacketLibrary.TriggerItem(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1376
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [313] [1][7][0][0][0][0]: 
+System.ArgumentOutOfRangeException: Argomento specificato non compreso nell'intervallo.
+   in Plus.Collections.MultiKeyDictionary`3.get_Item(K1 key1, K2 key2) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Collections\MultiKeyDictionary.cs:riga 16
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.handleRock(GameClient Session, RoomItem Item) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 104
+   in Plus.HabboHotel.Items.Interactor.InteractorRP.OnTrigger(GameClient Session, RoomItem Item, Int32 Request, Boolean HasRights) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Items\Interactor\InteractorRP.cs:riga 46
+   in Plus.Messages.Handlers.GameClientMessageHandler.TriggerItem() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Items.cs:riga 619
+   in Plus.Messages.Parsers.PacketLibrary.TriggerItem(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1376
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [2850] [0][0]?i: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.Messages.Handlers.GameClientMessageHandler.KickUser() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 1000
+   in Plus.Messages.Parsers.PacketLibrary.KickUser(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1178
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [885] [6]?xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxx0000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxx000000000000000000000000000000000000000000000xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[0][0][0][0][0][0][0][10][0][0][0][2][0][0][0][0][0][0][0][0]: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.Messages.Handlers.GameClientMessageHandler.SaveHeightmap() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 1527
+   in Plus.Messages.Parsers.PacketLibrary.SaveHeightmap(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 215
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:superhire John-Teremy 7[0][0][0][0][0][0][0][1]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 7971
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:lickfeet dylan-smith[0][0][0][0][0][0][0]>: 
+System.Collections.Generic.KeyNotFoundException: La chiave specificata non era presente nel dizionario.
+   in System.ThrowHelper.ThrowKeyNotFoundException()
+   in System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 13581
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][7]:summon[0][0][0][0][0][0][0][0]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 15322
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [2385] [0][1]M[0]<sh-3016-92.hd-3091-1.ch-3779-110-92.hr-3786-35-31.lg-3058-64: 
+System.InvalidOperationException: La sequenza non contiene elementi
+   in System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   in Plus.HabboHotel.Roleplay.Components.ProcessClothing.LocateBooth() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Components\ProcessClothing.cs:riga 209
+   in Plus.HabboHotel.Roleplay.Components.ProcessClothing..ctor(GameClient Session, String NewClothing, String Gender) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Components\ProcessClothing.cs:riga 61
+   in Plus.Messages.Handlers.GameClientMessageHandler.ChangeLook() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Users.cs:riga 566
+   in Plus.Messages.Parsers.PacketLibrary.ChangeLook(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1790
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [2385] [0][1]M[0]9sh-3016-92.hd-3091-1.ch-3779-110-92.hr-3281-35.lg-3058-64: 
+System.InvalidOperationException: La sequenza non contiene elementi
+   in System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   in Plus.HabboHotel.Roleplay.Components.ProcessClothing.LocateBooth() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Components\ProcessClothing.cs:riga 209
+   in Plus.HabboHotel.Roleplay.Components.ProcessClothing..ctor(GameClient Session, String NewClothing, String Gender) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Roleplay\Components\ProcessClothing.cs:riga 61
+   in Plus.Messages.Handlers.GameClientMessageHandler.ChangeLook() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Users.cs:riga 566
+   in Plus.Messages.Parsers.PacketLibrary.ChangeLook(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 1790
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0][5]:cure[0][0][0][0][0][0][0][0]: 
+System.IndexOutOfRangeException: Indice oltre i limiti della matrice.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 4165
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay2\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:bail Colin-Brooksa[0][0][0][0][0][0][0]0: 
+System.NullReferenceException: Riferimento a un oggetto non impostato su un'istanza di oggetto.
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 2674
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
+
+Error in packet [3033] [0]:lickfeet charlotte-mills[0][0][0][0][0][0][0][9]: 
+System.Collections.Generic.KeyNotFoundException: La chiave specificata non era presente nel dizionario.
+   in System.ThrowHelper.ThrowKeyNotFoundException()
+   in System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   in Plus.HabboHotel.Misc.ChatCommandHandler.Parse(GameClient Session, String Input) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\HabboHotel\Misc\ChatCommandHandler.cs:riga 13581
+   in Plus.HabboHotel.Rooms.RoomUser.Chat(GameClient session, String msg, Boolean shout, Int32 count, Int32 textColor) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\HabboHotel\Rooms\RoomUser.cs:riga 908
+   in Plus.Messages.Handlers.GameClientMessageHandler.Chat() in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\Messages\Handlers\Rooms.cs:riga 2543
+   in Plus.Messages.Parsers.PacketLibrary.Chat(GameClientMessageHandler handler) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\Messages\Parsers\PacketLibrary.cs:riga 143
+   in Plus.Messages.Parsers.LibraryParser.HandlePacket(GameClientMessageHandler handler, ClientMessage message) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\Messages\Parsers\LibraryParser.cs:riga 68
+   in Plus.Messages.Handlers.GameClientMessageHandler.HandleRequest(ClientMessage request) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\Messages\Handlers\Others.cs:riga 92
+   in Plus.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientMessage message) in C:\Users\Luca\Desktop\Roleplay1\Plus Emulator\HabboHotel\GameClients\GameClient.cs:riga 576
+
